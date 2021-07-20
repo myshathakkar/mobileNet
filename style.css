@@ -1,0 +1,57 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: aliceblue;
+}
+.header_div{
+    background-color: rgb(255, 255, 255);
+    color: rgb(221, 34, 1);
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+background-color: rgb(233, 172, 210);
+padding: 10px;
+margin-top: 40;
+border: 3px solid white;
+}
+
+.main_div label{
+    width: 310;
+    padding: 10px;
+    margin-bottom: 0px;
+    background-color: white;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copy_right_fotter{
+    line-height: 3;
+    bottom: 0px;
+    color: black;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+}
